@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://www.facebook.com/AdityaMathur25/" target="_blank" /> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
-<a href="discord.gg/XxYa32xAGx" target="_blank" /> <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"> </a>
+<a href="discord.gg/XxYa32xAGx" target="_blank" /> <img src="https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"> </a>
 &nbsp;<img src="https://komarev.com/ghpvc/?username=AdityaMathur25&color=blue">
 
 ---
