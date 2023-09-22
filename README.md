@@ -1,8 +1,15 @@
-### Hi there 👋
-<a href="https://www.facebook.com/AdityaMathur25/" target="_blank" /> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
-<a href="discord.gg/XxYa32xAGx" target="_blank" /> <img src="https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"> </a>
-&nbsp;<img src="https://komarev.com/ghpvc/?username=AdityaMathur25&color=blue">
+<h1 align="center">Hello Coders!! 👋</h1>
 
+![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
+
+<h3 align="center">I'm Aditya Mathur🙋‍♂️, a full time MCA student at KR Mangalam University,sohna with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.</h3>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kishanrajput23&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/kishanrajput23?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/kishanrajput23?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 ---
 [![@ninju's Holopin board](https://holopin.me/ninju)](https://holopin.io/@ninju)
 ---
