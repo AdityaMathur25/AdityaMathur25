@@ -6,9 +6,9 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishanrajput23&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/kishanrajput23?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/kishanrajput23?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://komarev.com/ghpvc/?username=AdityaMathur25&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/AdityaMathur25?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/AdityaMathur25?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 ---
 [![@ninju's Holopin board](https://holopin.me/ninju)](https://holopin.io/@ninju)
