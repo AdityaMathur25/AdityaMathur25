@@ -1,6 +1,6 @@
 <h1 align="center">Hello Coders!! 👋</h1>
 
-![twitter head]([https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png](https://media.licdn.com/dms/image/D4D16AQEgq0-KMtwz-Q/profile-displaybackgroundimage-shrink_350_1400/0/1670668513724?e=1700697600&v=beta&t=n1IlBCvn2gKeH6VS1y8tzyK56pyX4hn5o6NpH0FvksM))
+![twitter head](https://ibb.co/X4sxP6D)
 
 <h3 align="center">I'm Aditya Mathur🙋‍♂️, a full time MCA student at KR Mangalam University,sohna with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.</h3>
 
